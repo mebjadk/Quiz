@@ -6,12 +6,13 @@ const Start = () => {
   const { gameState, setgameState } = useContext(QuizContext);
   return (
     <div className="Button">
+      <h1>Quiz Application</h1>
       <button
         onClick={() => {
           setgameState("quiz");
         }}
       >
-        Start
+        Start Quiz
       </button>
     </div>
   );

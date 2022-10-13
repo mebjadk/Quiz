@@ -10,12 +10,14 @@
   text-align: center;
 }
 .quizbox{
-  background-color: cadetblue;
+  background-color:  #e1e8e3;
   margin-top: 30px;
-  height:450px;
-  width: 450px;
+  height:550px;
+  width: 350px;
   display: flex;
   flex-direction: column;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 h4{
   margin-top:30px;
