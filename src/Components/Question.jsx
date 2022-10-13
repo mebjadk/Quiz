@@ -23,5 +23,13 @@ export const Questions = [
       optionD: "Java",
       answer: "optionD",
     },
+    {
+      prompt:"Which Netflix show had the most streaming views in 2021?",
+      optionA:"Stranger Things",
+      optionB:"Rain",
+      optionC:"Squid Game",
+      optionD:"Game OF Thrones",
+      answer:"optionC"
+    },
   ];
   
